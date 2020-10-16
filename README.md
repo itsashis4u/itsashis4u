@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I am a Full-Stack Developer (I guess 😅) from Bangalore, India**
+**I am a Full-Stack Developer from Bangalore, India**
 
 - 🔭 I’m currently working on **React Native apps at Walmart**
 - 🌱 I’m currently learning about **Web security** and **React Native performance**
